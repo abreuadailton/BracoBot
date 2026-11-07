@@ -1,0 +1,6 @@
+strands-agents[openai]==1.64.0
+openai==3.46.0
+pydantic==2.14.3
+httpx==0.28.1
+tiktoken==0.14.0
+python-dotenv==1.2.4
